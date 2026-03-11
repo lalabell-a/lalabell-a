@@ -32,12 +32,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
 [![Tu Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=lalabell-a&theme=tokyonight)](https://github.com/lalabell-a)
 
-| ![Tus Stats](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&theme=tokyonight) | ![Tu Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalabell-a&theme=tokyonight) |
+| ![Tus Stats](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&theme=tokyonight&count_private=true) | ![Tu Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalabell-a&theme=tokyonight) |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalabell-a&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/> | ![Mis Stats Personalizadas](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Management%20Development%20Stats&theme=tokyonight) |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalabell-a&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10&count_private=true&include_all_commits=true"/> | ![Mis Stats Personalizadas](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Management%20Development%20Stats&theme=tokyonight) |
