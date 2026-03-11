@@ -1,5 +1,3 @@
-###  &nbsp;About Me
-
 ### 👩🏻‍💻 &nbsp;About Me
 
 &nbsp;I am a **Software Engineering Student** (7th Semester) at **Escuela Politécnica Nacional (EPN)**.
