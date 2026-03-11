@@ -1,13 +1,11 @@
-### 👩🏻‍💻 &nbsp;About Me
+###  &nbsp;About Me
 
-👨‍💻 &nbsp;I am a **Software Engineering Student** (7th Semester) at **Escuela Politécnica Nacional (EPN)**.
-💡 &nbsp;I am passionate about **Technical Project Management** and optimizing the software development lifecycle.
-🎓 &nbsp;Currently focusing on mastering Agile methodologies and scalable software architectures.
-🌱 &nbsp;I'm on track for learning more about **Agile Project Management (Scrum/Kanban)**, Cloud Computing, and Backend Development.
-✍️ &nbsp;In my free time, I enjoy documenting project workflows and exploring UI/UX design.
-💬 &nbsp;Feel free to reach out to me for professional collaborations, project management insights, or just for some interesting tech discussion.
-✉️ &nbsp;You can shoot me an email at **[TU_CORREO]@estudiante.epn.edu.ec**!
-📄 &nbsp;Please have a look at my [LinkedIn](TU_LINK_A_LINKEDIN) for more details about my professional path.
+ &nbsp;I am a **Software Engineering Student** (7th Semester) at **Escuela Politécnica Nacional (EPN)**.
+ &nbsp;I am passionate about **Technical Project Management** and **User Interface (UI) Design**, bridging the gap between efficient workflows and great user experiences.
+ &nbsp;Currently focusing on mastering Agile methodologies, scalable software architectures, and modern design principles.
+ &nbsp;I'm on track for learning more about **Agile Project Management**, **UI/UX Design Systems**, and Cloud Computing.
+ &nbsp;In my free time, I design digital interfaces and document project workflows to optimize team productivity.
+ &nbsp;Feel free to reach out to me for professional collaborations, UI design insights, or project management discussions.
 
 
 <img alt="Project Management" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="30%"/>
@@ -37,8 +35,8 @@
 
 <br>
 
-[![Tu Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=[TU_USUARIO_GITHUB]&theme=tokyonight)](https://github.com/[TU_USUARIO_GITHUB])
+[![Tu Gráfico de Actividad](https://activity-graph.herokuapp.com/graph?username=lalabell-a&theme=tokyonight)](https://github.com/lalabell-a)
 
-| ![Tus Stats](https://github-readme-stats.vercel.app/api?username=[lalabell-a]&show_icons=true&theme=tokyonight) | ![Tu Streak](https://github-readme-streak-stats.herokuapp.com/?user=[lalabell-a]&theme=tokyonight) |
+| ![Tus Stats](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&theme=tokyonight) | ![Tu Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalabell-a&theme=tokyonight) |
 | --- | --- |
-| ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=[lalabell-a]&theme=tokyonight&layout=compact) | ![Mis Stats Personalizadas](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Management%20Development%20Stats&theme=tokyonight) |
+| ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=lalabell-a&theme=tokyonight&layout=compact) | ![Mis Stats Personalizadas](https://github-readme-stats.vercel.app/api?username=lalabell-a&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Management%20Development%20Stats&theme=tokyonight) |
